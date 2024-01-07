@@ -1,6 +1,7 @@
 node_modules
 package-lock.json
 package.json
-2-useContext
 3-useReducer
 first_app
+components
+App.tsx
