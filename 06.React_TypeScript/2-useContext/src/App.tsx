@@ -28,9 +28,6 @@ const App: React.FC = () => {
 
   return (
     <>
-      {/* <ParentCard/> */}
-      {/* <UserManager/> */}
-
       <div className="container mt-3">
         <div className="row">
           <div className="col-sm-8">
